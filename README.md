@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CAREER EXPLORE STUDIO
 **Personal Skill Learning, Roadmap & Interview Preparation Platform**
 
@@ -182,3 +183,7 @@ dist/assets/index-C2yibGC6.js   439.22 kB │ gzip: 105.15 kB
 
 ## 📄 License
 MIT License. Built for career explorers, students, and aspiring software professionals.
+=======
+# career-explore-studio
+3rd time
+>>>>>>> 05848dcab42419ef1aa7f16ed7641e6d3c8fe1a0
